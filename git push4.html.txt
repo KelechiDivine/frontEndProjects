@@ -1,0 +1,56 @@
+table{
+    border: solid 1px black;
+}
+
+table{
+    border: solid 1px black;
+}
+td{
+    border: solid 1px black;
+}
+
+table{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+td{
+    border: solid 1px black;
+    border: 7px;
+}
+
+table{
+    border: solid 1px black;
+    border-spacing: 7px;
+}
+
+td{
+    border: solid 1px black;
+}
+
+
+caption{
+    font-weight: bold;
+    padding: 0.25em 0 0.25em;
+    text-align: left;
+    text-transform: uppercase;
+    border-top: 1px solid #DCA806;
+}
+
+table{
+    font-size: 0.8em;
+    font-family:Arial, sans-serif;
+    border-collapse: collapse;
+    border-top: 4px solid #DCA806;
+    border-bottom: 1px solid white;
+    text-align: left;
+}
+
+
+thead tr{
+background-color: #CACACA;
+}
+
+th{
+padding: 0.75em;
+}

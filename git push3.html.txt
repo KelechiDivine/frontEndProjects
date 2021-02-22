@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styling.css">
+    <title>Signing page.</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inner-container">
+            <div class="top-section">
+                <h2>Join our community.</h2>
+                <h3>30-day, hasley-free money back guarantee</h3>
+                <p>Gain access to our full library of tutorials along with expert code reviews.</p>
+                <p>Perfect for any developers who are serious about honing their skills.</p>
+            </div>
+
+            <div class="lower-section">
+                <div class="left"></div>
+                <h3>Monthly subcribtion  </h3>
+
+                <h1>&dollar;29</h1><span class="h1-small"> per month</span>
+
+                <p class="description"> Full access for less than &dollar;1 a day</p>
+
+                <a href="#" class="signup" role="button"> Sign Up</a>
+            </div>
+
+                <div class="right"></div>
+                    <h3>Why Us</h3>
+
+                    <ul>
+                        <li class="points">Tutorials by industry experts</li>
+                        <li class="points">Peer &amp; experts code reviews</li>
+                        <li class="points">Coding exercises</li>
+                        <li class="points">Access to our GitHub repos</li>
+                        <li class="points">community forum</li>
+                        <li class="points">Flash disks</li>
+                        <li class="points"></li>
+                    </ul>
+
+            <table>
+                <caption>18th century french painting</caption>
+
+                <tr>
+                    <th>Artist</th>
+                    <th>Title</th>
+                    <th>Year</th>
+                </tr>
+
+                <tr>
+                    <td rowspan="3">Jacques-Louis David</td>
+                    <td>The death of marat</td>
+
+                    <td>1793</td>
+                </tr>
+                <tr>
+                    <td>The intervention of the Sabine Women</td>
+                    <td>1799</td>
+                </tr>
+                <tr>
+                    <td>Napoleon Crossing the Alps</td>
+                    <td>1800</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">Passenger</td>
+                    <td> The Long way.</td>
+                    <td> 2009</td>
+                </tr>
+
+                <tr>
+                    <td> Let her go.</td>
+                    <td> 2010.</td>
+                </tr>
+
+                <tr>
+                    <td>The boy creid wolf</td>
+                    <td>2015</td>
+                </tr>
+            </table>
+            <br>
+<!--                 <tr>-->
+<!--                    <td>Burial at ornans</td>-->
+<!--                    <td>Gustave Courbet</td>-->
+<!--                    <td>1849</td>-->
+<!--                    <td>314cm</td>-->
+<!--                    <td>663cm</td>-->
+<!--                </tr>-->
+            <div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="img/img1.jpg" alt="Flowers" width="470" height="700"/>
+                    </td>
+                    <td>
+                        <h2>Flower</h2>
+                        <p>ButterFly Flower, Norway</p>
+                        <p>Photo by: Google</p>
+
+                        <h3>Other images by Google design</h3>
+                        <table>
+                            <tr>
+                                <td><img src="img/img2.jpg" width="510.4" height="228.8"/></td>
+                                <td><img src="img/img3.jpg" width="510.4" height="228.8"/></td>
+                            </tr>
+                            <tr>
+                                <td><img src="img/img4.jpg" width="510.4" height="228.8"/></td>
+                                <td><img src="img/img5.jpg" width="510.4" height="228.8"/></td>
+                            </tr>
+                        </table>
+            </table>
+            </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Share Your travels.. New york - Cneter Park </title>
+        <link rel="stylesheet" href="css/main.css" />
+        <SCRIPT src="js/html5shiv.js"></script>
+    </head>
+    <body>
+        <h1> Share Your dog image here! </h1>
+        <h2> Nigeria - Ogun State</h2>
+        <p> Photo by Okoroafor Chinwendu Rosemary. </p>
+        <p> This photo of my beautiful dog..
+            <a href="http: //www.centralpark.com/"> Amusement park </a>
+            Nigeria was taken on october 22, 2016 with a
+            <strong>Itel p32 </strong> camera.
+        </p>
+        <img src="img/IMG_20190112_180717.jpg" alt="A picture with nzynger" />
+
+
+        <h3>Reviews</h3>
+        <div>
+            <p>By Okoroafor chinwendu<time> 2016-05-23 </time> </p>
+            <p>Easy on the HDR buddy.</p>
+            </div>
+            <hr>
+            <div>
+                <p>By Okoroafor kelechi Divine <time>2016-05-18</time></p>
+                <p>I love dogs alots..</p>
+        </div>
+        <p><small>Copyright &copy; 2018 share your beautiful image with your dogs</small></p>
+    </body>
+
+</html>

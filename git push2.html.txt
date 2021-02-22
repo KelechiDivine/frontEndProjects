@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <title> The reason why I grew interest poetry .. Kelechi Divine </title>
+        <link rel="stylesheet" href="css/main.css" />
+        <SCRIPT src="js/html5shiv.js"></script>
+
+    </head>
+
+    <body>
+
+        <h1> Kelechi Divine</h1>
+        <h2>Bio by: Code_Pen.</h2>
+        <p> Designed by Okoroafor Kelechi (Drive Technology.) </p>
+        <p> This the photo of <b>The boy cried wolf </b> for
+            <a href="http: //www.HolyGarmentNation.com/"> Holy_Garment_Nation </a>
+                 by Deep Mind on
+            <strong> Itel p15 </strong> camera.
+        </p>
+        <br>
+
+        <p>
+            You can reach kelechi:
+        </p>
+        <ul>
+            <l1><p><a href="kelechi_frontend_codes.html"> Home </a></p></l1>
+            <l1><p><a href="https://mail.google.com/mail/u/0/#inbox"> Message me.</a></p></l1>
+            <l1><p><a href="https://github.com/KelechiDivine"> My products.</a></p></l1>
+            <l1><p><a href="https://www.pinterest.co.uk/?show_error=true">Check pintrest.</a></p></l1>
+        </ul>
+
+        <img src="img/FB_IMG_15878250722444895%20-%20Copy.jpg" alt="My best picture."/>
+
+        <p><a href="https://github.com/KelechiDivine">GitHub Page</a></p>
+        <p><a href="https://mail.google.com/mail/u/0/#inbox">Email</a></p>
+
+        <ol>
+            <li><i>My skills:</i></li>
+            <li>
+                <ol>
+                    <li> A poet</li>
+                    <li> An artist</li>
+                    <li> A software developer</li>
+                    <li> A scientist</li>
+                </ol>
+            </li>
+        </ol>
+
+        <h3>Reviews</h3>
+        <div>
+            <p>By Okoroafor Kelechi Divine<time> 2020-05-26 </time> </p>
+            </div>
+            <hr>
+            <div>
+                <p>Dedicated to Holy Garment Nation.</p>
+                <p>I love poems alot..</p>
+                <p><li>Contact me: <b><u>08082167764</u></b></li></p>
+        </div>
+        <p><small>Copyright &copy; 2021 share your first picture of your poems! </small></p>
+        <p><small>Holy Garment Nation&trade; </small></p>
+    </body>
+
+</html>

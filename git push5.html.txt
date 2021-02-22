@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My gallery.</title>
+
+</head>
+<body>
+    <h3> This is Okoroafor Kelechi Divine's pictutes</h3>
+
+</body>
+</html>
